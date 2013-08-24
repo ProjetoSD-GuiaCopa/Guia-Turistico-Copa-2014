@@ -1,0 +1,60 @@
+[Sat Aug 24 17:33:50 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/favicon.ico
+[Sat Aug 24 17:33:50 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/favicon.ico
+[Sat Aug 24 17:37:14 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:37:16 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:37:18 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:40:20 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:41:17 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:41:54 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/index.html
+[Sat Aug 24 17:42:40 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/index.html
+[Sat Aug 24 17:43:24 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:43:26 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:44:43 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:47:34 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 17:51:10 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 18:08:03 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/src/jogos.html
+[Sat Aug 24 18:09:43 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] mod_python (pid=14276, interpreter='guiacopa2014.com', phase='PythonHandler', handler='mod_python.publisher'): Application error
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] ServerName: 'guiacopa2014.com'
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] DocumentRoot: '/home/renata/opt/workspace/Guia-Turistico-Copa-2014/'
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] URI: '/src/Teste.py'
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] Location: None
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] Directory: None
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] Filename: '/home/renata/opt/workspace/Guia-Turistico-Copa-2014/src/Teste.py'
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] PathInfo: ''
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] Traceback (most recent call last):
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1537, in HandlerDispatch\n    default=default_handler, arg=req, silent=hlist.silent)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1229, in _process_target\n    result = _execute_target(config, req, object, arg)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1128, in _execute_target\n    result = object(arg)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/publisher.py", line 204, in handler\n    module = page_cache[req]
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1059, in __getitem__\n    return import_module(req.filename)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 296, in import_module\n    log, import_path)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 680, in import_module\n    execfile(file, module.__dict__)
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]   File "/home/renata/opt/workspace/Guia-Turistico-Copa-2014/src/Teste.py", line 45
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]     if not JOGO.get(???).exists and cidade_nome and local_endereco:
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1]                     ^
+[Sat Aug 24 18:10:01 2013] [error] [client 127.0.0.1] SyntaxError: invalid syntax
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] mod_python (pid=14276, interpreter='guiacopa2014.com', phase='PythonHandler', handler='mod_python.publisher'): Application error, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] ServerName: 'guiacopa2014.com', referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] DocumentRoot: '/home/renata/opt/workspace/Guia-Turistico-Copa-2014/', referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] URI: '/teste.py/email', referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] Location: None, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] Directory: None, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] Filename: '/home/renata/opt/workspace/Guia-Turistico-Copa-2014/teste.py', referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] PathInfo: '/email', referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1537, in HandlerDispatch\n    default=default_handler, arg=req, silent=hlist.silent), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1229, in _process_target\n    result = _execute_target(config, req, object, arg), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/importer.py", line 1128, in _execute_target\n    result = object(arg), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/publisher.py", line 213, in handler\n    published = publish_object(req, object), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/publisher.py", line 425, in publish_object\n    return publish_object(req,util.apply_fs_data(object, req.form, req=req)), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/dist-packages/mod_python/util.py", line 554, in apply_fs_data\n    return object(**args), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/home/renata/opt/workspace/Guia-Turistico-Copa-2014/teste.py", line 30, in email\n    conn = smtplib.SMTP(SMTP_SERVER), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/smtplib.py", line 249, in __init__\n    (code, msg) = self.connect(host, port), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/smtplib.py", line 309, in connect\n    self.sock = self._get_socket(host, port, self.timeout), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/smtplib.py", line 284, in _get_socket\n    return socket.create_connection((port, host), timeout), referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1]   File "/usr/lib/python2.7/socket.py", line 571, in create_connection\n    raise err, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:20 2013] [error] [client 127.0.0.1] error: [Errno 111] Connection refused, referer: http://localhost/teste.html
+[Sat Aug 24 18:16:38 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/index.html
+[Sat Aug 24 18:16:45 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/index.html
+[Sat Aug 24 18:16:49 2013] [error] [client 127.0.0.1] File does not exist: /home/renata/opt/workspace/Guia-Turistico-Copa-2014/loader.gif, referer: http://localhost/index.html

@@ -1,108 +1,23 @@
-body {background-color: #3e4095;
-      font-family: Helvetica, Arial;
-      background-attachment:fixed;}
+body {background-color: #3e4095; font-family: Helvetica, Arial; background-attachment:fixed;}
 
-#busca {clear: both;
-	background: #00a859;
-	background-color: rgba(0,168,89);
-	text-align: center;
-	font-weight: bold;
-	height: 30px;
-        width: 900px;
-	line-height: 30px;
-	font-size: 18px;
-	border-radius: 10px;
-        padding: 5px;}
+#busca {clear: both; background: #00a859; background-color: rgba(0,168,89); text-align: center; font-weight: bold; height: 30px; width: 900px; line-height: 30px; font-size: 18px; border-radius: 10px; padding: 5px; margin: auto;}
 
-#container {width: 900px;
-            height: auto;}
+#container {width: 900px; height: auto; margin: auto;}
 
-#titulo {background-color: #3e4095; 
-         font-family: Helvetica, Arial;
-         color: white;
-         text-align: center;
-         font-size: 16px;}
+#titulo {background-color: #3e4095; font-family: Helvetica, Arial; color: white; text-align: center; font-size: 16px;} #coluna1 { float: left; height: 600px; width: 430px; border-radius: 10px; margin-top:10px;}
 
-#nav {background: #00a859;
-      background-color: rgba(0,168,89);
-      float: left;
-      height:45px;
-      width: 420px;
-      font-size: 14px;
-      font-family: Arial Black;
-      border-radius: 10px;
-      margin-top: 5px;
-      margin-right: 2px;
-      margin-left:5px;  } 
+#nav {background: #00a859; background-color: rgba(0,168,89); height:30px; width: 430px; font-size: 13px; font-family: Arial Black; border-radius: 8px; }
 
-#nav ul {
-	margin: 0px;
-	padding: 0px;
-	list-style-type: none;
-}
+#nav ul { margin: 0px; padding: 0px; list-style-type: none; }
 
-#principal {
-         background: #ffcc29;
-         background-color: rgba(255,204,41);
-         float: left;
-         height:500px;
-         width: 430px;
-         font-size: 14px;
-         font-family: Arial, Arial Black;
-         color:white;
-         border-radius: 10px;
-         padding:5px;
-         margin-top: 20px;
-	 margin-bottom: 10px;
-         margin-right: 5px;
-         margin-left:5px;}
+#principal { background: #ffcc29; background-color: rgba(255,204,41); height:545px; font-size: 14px; font-family: Arial, Arial Black; color:white; border-radius: 10px; padding:5px; margin-top: 5px;}
 
-#mapa {
-       background: #ffcc29;
-       background-color: rgba(255,204,41);
-       height:500px;
-       width: 430px;
-       font-size: 14px;
-       float:right;
-       border-radius: 10px;
-       padding:5px;
-       margin-top: 20px;
-       margin-bottom: 10px;
-       margin-right: 5px;
-       margin-left:5px; }
+#mapa { background: #ffcc29; background-color: rgba(255,204,41); height:580px; width: 430px; font-size: 14px; float:right; border-radius: 10px; padding:5px; margin-top: 10px; margin-left:5px; }
 
-#rodape {clear: both;
-         background: #00a859;
-	 background-color: rgba(0,168,89);
-         height: 30px; 
-         text-align: center;
-	 font-weight: bold;
-	 height: 30px;
-	 line-height: 30px;
-	 font-size: 12px;
-	 border-radius: 10px;
-         margin-top: 10px;} 
+#rodape {clear: both; background: #00a859; background-color: rgba(0,168,89); height: 20px; text-align: center; font-weight: bold; line-height: 20px; font-size: 12px; border-radius: 10px; margin-top: 10px;}
 
-#nav ul li a {
-	line-height: 50px;
-	font-weight: bold;
-	text-decoration: none;
-	color: #F2F5F7;
-	padding-top: 10px;
-	padding-right: 2px;
-        padding-left: 2px;
-	margin-top: 5px;
-	margin-bottom: 10px;
-	margin-right: 20px;
-	margin-left: 10px;
-	transition: 2s;}
+#nav ul li a { line-height: 30px; font-weight: bold; text-decoration: none; color: #F2F5F7; padding-top: 2px; padding-right: 4px; padding-left: 2px; margin-bottom: 10px; margin-right: 20px; margin-left: 10px; transition: 2s;}
 
-#nav ul li a:hover {
-	color: #3e4095;
-	background-color: rgba(62, 64, 149, .2);
-	border-radius: 10px;
-	transition: 2s;}
+#nav ul li a:hover { color: #3e4095; background-color: rgba(62, 64, 149, .2); border-radius: 10px; transition: 2s;}
 
-
-#nav ul li {
-	display: inline;
+#nav ul li { display: inline;

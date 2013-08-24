@@ -1,0 +1,7 @@
+<form method="POST" action="src/consulta.py">
+<p>
+<input type="text" name="nome" maxlength="50" size="20"><br>
+
+<input type="submit" value="Pesquisar" name="submit_button">
+
+</form>

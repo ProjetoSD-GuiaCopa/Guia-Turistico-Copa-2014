@@ -1,0 +1,464 @@
+127.0.0.1 - - [22/Aug/2013:00:40:00 -0300] "GET / HTTP/1.1" 200 1051 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:00:40:00 -0300] "GET /css/estilos.css HTTP/1.1" 200 910 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:00:40:02 -0300] "GET /favicon.ico HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:00:40:02 -0300] "GET /favicon.ico HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:00:56:31 -0300] "GET /teste.py HTTP/1.1" 200 292 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:01:01:45 -0300] "GET /index.html HTTP/1.1" 200 1051 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:01:03:41 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [22/Aug/2013:01:03:41 -0300] "GET /css/estilos.css HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:01:26:34 -0300] "GET /webmobile/apresentacao/cadastrar.py HTTP/1.1" 404 514 "http://www.devmedia.com.br/introducao-ao-desenvolvimento-web-com-python/6552" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:18:38 -0300] "GET / HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:18:38 -0300] "GET /css/estilos.css HTTP/1.1" 304 210 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:20 -0300] "GET / HTTP/1.1" 200 1133 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:20 -0300] "GET /javascript/ajax.js HTTP/1.1" 200 534 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:20 -0300] "GET /javascript/instrucao.js HTTP/1.1" 200 623 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:32 -0300] "GET /feed.html HTTP/1.1" 200 1061 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:35 -0300] "GET /consulta.html HTTP/1.1" 200 355 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:37 -0300] "GET /sedes.html HTTP/1.1" 200 355 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:20:56:38 -0300] "GET /locais.html HTTP/1.1" 200 355 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:41 -0300] "GET / HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:42 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:42 -0300] "GET /javascript/instrucao.js HTTP/1.1" 200 618 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:46 -0300] "GET /consulta.html HTTP/1.1" 304 208 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:46 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:48 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:51 -0300] "GET /sedes.html HTTP/1.1" 304 208 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:51 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:52 -0300] "GET /locais.html HTTP/1.1" 304 208 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:52 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:54 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:55 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:56 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:00:57 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:02:09 -0300] "GET /feed.html HTTP/1.1" 304 211 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:02:09 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:02:15 -0300] "GET /consulta.html HTTP/1.1" 304 209 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:02:15 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:03:31 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:03:32 -0300] "GET /consulta.html HTTP/1.1" 304 208 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:03:32 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:37 -0300] "GET / HTTP/1.1" 200 1129 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:37 -0300] "GET /css/estilos.css HTTP/1.1" 304 210 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:37 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:37 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 211 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:48 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:52 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:53 -0300] "GET /consulta.html HTTP/1.1" 304 208 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:53 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:53 -0300] "GET /sedes.html HTTP/1.1" 200 361 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:53 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:55 -0300] "GET /locais.html HTTP/1.1" 200 362 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:05:55 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:06:05 -0300] "GET /index.html HTTP/1.1" 200 1129 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:06:07 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:10 -0300] "GET /index.html HTTP/1.1" 304 211 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:11 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:17 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:17 -0300] "GET /feed.html HTTP/1.1" 200 361 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:19 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:23 -0300] "GET /sedes.html HTTP/1.1" 304 208 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:23 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:25 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:26 -0300] "GET /locais.html HTTP/1.1" 304 208 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:26 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:31 -0300] "GET /jogos.html HTTP/1.1" 200 361 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:07:31 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:46 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:46 -0300] "GET /css/estilos.css HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:46 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:46 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:54 -0300] "GET /jogos.html HTTP/1.1" 304 209 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:54 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:55 -0300] "GET /consulta.html HTTP/1.1" 200 364 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:55 -0300] "GET /loader.gif HTTP/1.1" 404 499 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:57 -0300] "GET /sedes.html HTTP/1.1" 304 208 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:57 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:58 -0300] "GET /locais.html HTTP/1.1" 304 208 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:58 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:59 -0300] "GET /feed.html HTTP/1.1" 304 208 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:08:59 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:14:14 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:14:14 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:14:14 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:12 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:12 -0300] "GET /css/estilos.css HTTP/1.1" 200 914 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:12 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:12 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 211 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:44 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:44 -0300] "GET /css/estilos.css HTTP/1.1" 200 912 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:44 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:18:44 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 211 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:29:49 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:29:49 -0300] "GET /css/estilos.css HTTP/1.1" 200 916 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:29:49 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:29:49 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:30:00 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:30:00 -0300] "GET /css/estilos.css HTTP/1.1" 200 916 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:30:00 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:30:00 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:06 -0300] "GET /index.html HTTP/1.1" 304 211 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:07 -0300] "GET /css/estilos.css HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:07 -0300] "GET /javascript/ajax.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:07 -0300] "GET /javascript/instrucao.js HTTP/1.1" 304 210 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:12 -0300] "GET /sedes.html HTTP/1.1" 200 587 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+127.0.0.1 - - [23/Aug/2013:21:50:12 -0300] "GET /loader.gif HTTP/1.1" 404 498 "http://localhost/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0"
+94.102.51.246 - - [23/Aug/2013:22:06:52 -0300] "GET http://24x7-allrequestsallowed.com/?PHPSESSID=7jy745aa00143PUZJWUEYJEF%5CN HTTP/1.1" 200 2082 "-" "Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0"
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>
+combined>

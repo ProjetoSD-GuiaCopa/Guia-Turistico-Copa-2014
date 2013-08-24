@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml">
+
+<html lang="en">
+<head>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.10.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+
+
+ <script>
+$(function() {
+$( "#datepicker" ).datepicker();
+});
+</script>
+</head>
+<body>
+<form method="POST" action="src/jogos_cadastro.py">
+<p>
+Time 1: <select name="time1"></select><br>
+Time 2: <select name="time2"></select><br>
+Local: 	<select name="local"></select><br>
+Data:   <input type="text" id="datepicker" length="10"><br>
+Hora:   <input type="text" id="hora" length="10"><br>
+<input type="submit" value="Cadastrar" name="submit_button">
+<input type="reset" value="Apagar" name="reset_button"></p>
+</form>
+</body>
+</html>

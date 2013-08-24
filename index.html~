@@ -1,14 +1,28 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml">
 
-<head> <title> </title> 
-	<link href="css/estilos.css" rel="stylesheet" type="text/css" /> 
+<head> 
+	<title> </title> 
+	
+	<link href="css/estilos.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" />
+	<script src="http://code.jquery.com/jquery-1.10.1.js"></script>
+	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+
+
+ 	<script>
+	$(function() {
+	$( "#datepicker" ).datepicker();
+	});
+	</script> 
 	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script language="javascript" src="../javascript/ajax.js"></script> 
+	<script language="javascript" src="../javascript/instrucao.js"></script>  
     	<script>
 		var map;
 		function initialize() {
   		var mapOptions = {
     			zoom: 4,
-    			center: new google.maps.LatLng(-15.779722, -57),
+    			center: new google.maps.LatLng(-15.779722, -54),
     			mapTypeId: google.maps.MapTypeId.ROADMAP
   		};
   		map = new google.maps.Map(document.getElementById('mapa'),
@@ -37,11 +51,26 @@
 
 <div id="nav">
 
-<ul> <li><a href="index.html" title="Página Inicial">Home</a></li> <li><a href="raio.html" title="Raio">Raio</a></li> <li><a href="raio1.html" title="Raio 1">Raio 1</a></li> <li><a href="raio2.html" title="Raio 2">Raio 2</a></li> <li><a href="raio3.html" title="Raio 3">Raio 3</a></li> </ul>
+<ul> 
+<li><a href="#" onclick="abrirPag('feed.html')" title="Feed">Feed</a></li> 
+<li><a href="#" onclick="abrirPag('consulta.html')" title="Consulta">Consulta</a></li> 
+<li><a href="#" onclick="abrirPag('sedes.html')" title="Sedes">Sedes</a></li> 
+<li><a href="#" onclick="abrirPag('locais.html')" title="Locais">Locais</a></li> 
+<li><a href="#" onclick="abrirPag('jogos.html')"title="Jogos">Jogos</a></li> </ul>
 
 </div> <!-- Fim da div nav -->
 
-<div id="principal"> </div> <!-- Fim da div principal -->
+<div id="principal"> 
+<form method="POST" action="../src/jogos_cadastro.py">
+<p>
+Time 1: <input type="select" name="time1"><br>
+Time 2: <input type="select" name="time2"><br>
+Local: 	<input type="select" name="local"><br>
+Data:   <input type="text" id="datepicker"><br>
+<input type="submit" value="Enviar" name="submit_button">
+<input type="reset" value="Apagar" name="reset_button"></p>
+</form>
+</div> <!-- Fim da div principal -->
 
 </div> <!-- Fim da div coluna1 -->
 

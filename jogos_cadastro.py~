@@ -1,0 +1,19 @@
+import cgi, cgitb
+cgitb.enable()
+
+
+def cadastro_jogo():
+# Create instance of FieldStorage 
+	form = cgi.FieldStorage() 
+
+ 	time1 = form.getvalue('time1') 
+
+ 	time2 = form.getvalue('time2') 
+ 
+ 	local = form.getvalue('local') 
+ 
+ 	data	 = form.getvalue('datapicker') 
+
+	hora	 = form.getvalue('hora') 
+
+	print time1," ", time2," ", local," ", data," ", hora
